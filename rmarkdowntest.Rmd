@@ -10,9 +10,6 @@ Hello world!
 ```{r}
 a <- 123
 b <- 456
-c <- a+b
-c
+# Making total changes here
 
-e <- c+a
-e
 ```

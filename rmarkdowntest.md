@@ -11,10 +11,5 @@ Hello world!
 ```r
 a <- 123
 b <- 456
-c <- a+b
-c
-```
-
-```
-## [1] 579
+# Making total changes here
 ```
